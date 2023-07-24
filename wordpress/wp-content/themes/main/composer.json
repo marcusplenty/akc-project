@@ -1,0 +1,11 @@
+
+  {
+    "require": {
+        "zordius/lightncandy": "^0.23.0",
+        "guzzlehttp/guzzle": "^7.7"
+    },
+    "config": {
+  
+          "platform-check": false
+    }
+}
